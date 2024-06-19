@@ -1,7 +1,5 @@
 <h3 align="center">A passionate frontend developer from Nepal.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mcoder006" alt="mcoder006" /></a> </p>
-
 - 🌱 I’m currently learning **react, node.js etc.**
 
 - 💬 Ask me about **HTML, CSS, react.js, node.js, C etc.**
